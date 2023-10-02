@@ -23,7 +23,7 @@ const Popularjobs = () => {
   const [selectedJob, setSelectedJob] = useState();
 
   const handleCardPress = (item) => {
-    console.log(item);
+    console.log("Popular Jobs");
   };
 
   return (
